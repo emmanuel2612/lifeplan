@@ -1,0 +1,76 @@
+.Planner {
+    @media only screen and (max-width: 1200px) {
+        height: auto;
+      }
+
+  background-color: brown;
+  height: 100vh;
+  display: flex;
+
+
+  @media only screen and (max-width: 1200px) {
+    flex-direction: column;
+  }
+
+  nav {
+
+    @media only screen and (max-width: 1200px) {
+        width: 100%;
+        height: auto;
+        padding-top: 25px;
+        padding-bottom: 25px;
+      }
+    
+    width: 100px;
+    height: 100%;
+    background-color: white;
+    padding-top: 50px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+
+    .logo {
+      width: 40px;
+      height:auto;
+    }
+  }
+
+  main {
+
+    @media only screen and (max-width: 1200px) {
+        width: 100%;
+        height: 100vh;
+      }
+
+    width: 70%;
+    background-color: #fafafa;
+    border-left: solid 1px#e1e1e1;
+    border-right: solid 1px#e1e1e1;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+
+    input {
+
+        @media only screen and (max-width: 1200px) {
+            width: 100%;
+            word-break: break-all
+          }
+
+      border: 0;
+      background: none;
+      color: grey;
+      margin-bottom: 20px;
+      font-size: 20px;
+      width: 700px;
+      text-transform: uppercase;
+
+      &::placeholder {
+        /* Chrome, Firefox, Opera, Safari 10.1+ */
+        color: grey;
+      }
+    }
+  }
+
+}

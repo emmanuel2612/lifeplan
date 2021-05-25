@@ -1,0 +1,27 @@
+.AsideButton {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 500px;
+    border: 0;
+    background-color: #2d519f;
+    color: white;
+    font-weight: bold;
+    font-size: 12px;
+    margin-top: 12px;
+    white-space: nowrap;
+ 
+    cursor: pointer;
+    transition: ease 0.2s;
+
+    &:hover {
+      padding-right: 25px;
+    }
+
+    i {
+      margin-right: 12px;
+      font-size: 12px;
+      color: #c0cae2;
+    }
+  }
