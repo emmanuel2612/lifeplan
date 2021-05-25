@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lifeplan/static/css/main.e133fc23.chunk.css",
+    "main.js": "/lifeplan/static/js/main.26ab6e57.chunk.js",
+    "main.js.map": "/lifeplan/static/js/main.26ab6e57.chunk.js.map",
+    "runtime-main.js": "/lifeplan/static/js/runtime-main.afc2190a.js",
+    "runtime-main.js.map": "/lifeplan/static/js/runtime-main.afc2190a.js.map",
+    "static/js/2.e7bdc9ae.chunk.js": "/lifeplan/static/js/2.e7bdc9ae.chunk.js",
+    "static/js/2.e7bdc9ae.chunk.js.map": "/lifeplan/static/js/2.e7bdc9ae.chunk.js.map",
+    "index.html": "/lifeplan/index.html",
+    "static/css/main.e133fc23.chunk.css.map": "/lifeplan/static/css/main.e133fc23.chunk.css.map",
+    "static/js/2.e7bdc9ae.chunk.js.LICENSE.txt": "/lifeplan/static/js/2.e7bdc9ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afc2190a.js",
+    "static/js/2.e7bdc9ae.chunk.js",
+    "static/css/main.e133fc23.chunk.css",
+    "static/js/main.26ab6e57.chunk.js"
+  ]
+}
