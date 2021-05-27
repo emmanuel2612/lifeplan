@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lifeplan/static/css/main.dee68350.chunk.css",
-    "main.js": "/lifeplan/static/js/main.a14f97ca.chunk.js",
-    "main.js.map": "/lifeplan/static/js/main.a14f97ca.chunk.js.map",
+    "main.js": "/lifeplan/static/js/main.f770e596.chunk.js",
+    "main.js.map": "/lifeplan/static/js/main.f770e596.chunk.js.map",
     "runtime-main.js": "/lifeplan/static/js/runtime-main.afc2190a.js",
     "runtime-main.js.map": "/lifeplan/static/js/runtime-main.afc2190a.js.map",
     "static/js/2.1d287115.chunk.js": "/lifeplan/static/js/2.1d287115.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.afc2190a.js",
     "static/js/2.1d287115.chunk.js",
     "static/css/main.dee68350.chunk.css",
-    "static/js/main.a14f97ca.chunk.js"
+    "static/js/main.f770e596.chunk.js"
   ]
 }
