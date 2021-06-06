@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lifeplan/static/css/main.456209f6.chunk.css",
-    "main.js": "/lifeplan/static/js/main.19913e75.chunk.js",
-    "main.js.map": "/lifeplan/static/js/main.19913e75.chunk.js.map",
+    "main.css": "/lifeplan/static/css/main.2e31d205.chunk.css",
+    "main.js": "/lifeplan/static/js/main.fdf5bdcf.chunk.js",
+    "main.js.map": "/lifeplan/static/js/main.fdf5bdcf.chunk.js.map",
     "runtime-main.js": "/lifeplan/static/js/runtime-main.afc2190a.js",
     "runtime-main.js.map": "/lifeplan/static/js/runtime-main.afc2190a.js.map",
-    "static/js/2.1d287115.chunk.js": "/lifeplan/static/js/2.1d287115.chunk.js",
-    "static/js/2.1d287115.chunk.js.map": "/lifeplan/static/js/2.1d287115.chunk.js.map",
+    "static/js/2.e065325d.chunk.js": "/lifeplan/static/js/2.e065325d.chunk.js",
+    "static/js/2.e065325d.chunk.js.map": "/lifeplan/static/js/2.e065325d.chunk.js.map",
     "index.html": "/lifeplan/index.html",
-    "static/css/main.456209f6.chunk.css.map": "/lifeplan/static/css/main.456209f6.chunk.css.map",
-    "static/js/2.1d287115.chunk.js.LICENSE.txt": "/lifeplan/static/js/2.1d287115.chunk.js.LICENSE.txt",
+    "static/css/main.2e31d205.chunk.css.map": "/lifeplan/static/css/main.2e31d205.chunk.css.map",
+    "static/js/2.e065325d.chunk.js.LICENSE.txt": "/lifeplan/static/js/2.e065325d.chunk.js.LICENSE.txt",
     "static/media/logo.9f811e57.png": "/lifeplan/static/media/logo.9f811e57.png"
   },
   "entrypoints": [
     "static/js/runtime-main.afc2190a.js",
-    "static/js/2.1d287115.chunk.js",
-    "static/css/main.456209f6.chunk.css",
-    "static/js/main.19913e75.chunk.js"
+    "static/js/2.e065325d.chunk.js",
+    "static/css/main.2e31d205.chunk.css",
+    "static/js/main.fdf5bdcf.chunk.js"
   ]
 }
